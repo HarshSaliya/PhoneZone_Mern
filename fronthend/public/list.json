@@ -1,0 +1,52 @@
+[
+
+    {
+
+        "id":1,
+        "name":"Iphone 16 Pro Max",
+        "titel":"Iphone is Apple",
+        "price":109999,
+        "category":"Apple",
+        "image":"https://www.freepik.com/free-photo/front-view-smartphone-with-duct-tape_26211638.htm#fromView=search&page=2&position=8&uuid=1c68b0c9-4455-4073-9043-9d095bb27b21"
+    },
+
+    {
+
+        "id":2,
+        "name":"Iphone 15 Pro Max",
+        "titel":"Iphone is Apple",
+        "price":149999,
+        "category":"Apple",
+        "image":"https://www.freepik.com/free-photo/front-view-smartphone-with-duct-tape_26211638.htm#fromView=search&page=2&position=8&uuid=1c68b0c9-4455-4073-9043-9d095bb27b21"
+    },
+
+    {
+
+        "id":3,
+        "name":"Iphone 14 Pro Max",
+        "titel":"Iphone is Apple",
+        "price":99999,
+        "category":"Apple",
+        "image":"https://www.freepik.com/free-photo/front-view-smartphone-with-duct-tape_26211638.htm#fromView=search&page=2&position=8&uuid=1c68b0c9-4455-4073-9043-9d095bb27b21"
+    },
+
+    {
+
+        "id":1,
+        "name":"Iphone 16 Plus",
+        "titel":"Iphone is Apple",
+        "price":129999,
+        "category":"Apple",
+        "image":"https://www.freepik.com/free-photo/front-view-smartphone-with-duct-tape_26211638.htm#fromView=search&page=2&position=8&uuid=1c68b0c9-4455-4073-9043-9d095bb27b21"
+    },
+
+    {
+
+        "id":1,
+        "name":"Iphone 16 Pro ax",
+        "titel":"Iphone is Apple",
+        "price":19999,
+        "category":"Apple",
+        "image":"https://www.freepik.com/free-photo/front-view-smartphone-with-duct-tape_26211638.htm#fromView=search&page=2&position=8&uuid=1c68b0c9-4455-4073-9043-9d095bb27b21"
+    }
+]
