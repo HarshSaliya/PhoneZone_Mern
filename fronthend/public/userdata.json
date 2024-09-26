@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "66f3184f2d5597bd1ec8639d"
+  },
+  "fullname": "hash",
+  "email": "hash@gmail.com",
+  "password": "$2a$10$JrH6RV9JE4F6Hmgl7MdmM.Q/wYXSx5aoEpN27TXOvxBM2nbhnHQJi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f31f71eef7a96565946bde"
+  },
+  "fullname": "harsh",
+  "email": "harsh150623@gmail.com",
+  "password": "$2a$10$NNywSDttrWUp2Fd3N0Nq.u0aBjIK2.CpeyumH48NDt2gqZBFX8knq",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f31fdeeef7a96565946be2"
+  },
+  "fullname": "virat",
+  "email": "virat@gmail.com",
+  "password": "$2a$10$vScBbL3ciF4jpfkP/NYXFutnSFGIJFssgUsnVEVhakn.ey5vxDzlu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f320a5eef7a96565946be7"
+  },
+  "fullname": "harsh",
+  "email": "harsh00@gmail.com",
+  "password": "$2a$10$4cEU8M8FAlPXKxjfoDqGfeauf80uEynCWP2J8CYApbqe0AInY7Auq",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f3223feef7a96565946c0e"
+  },
+  "fullname": "ms",
+  "email": "ms@gmail.com",
+  "password": "$2a$10$LEIc9nUCK6azJR7SMO/pjOzdO4fbPTK2VG1jApsofDnp1dHkyC3aS",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f39d78202c3f319f62e87a"
+  },
+  "fullname": "virat",
+  "email": "vk@gamil.com",
+  "password": "$2a$10$3CpAXfXiyGSrKM8g9AyaUepOWnEqaGGHhCApClPmnViuB8smBwSb.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f39de6202c3f319f62e87d"
+  },
+  "fullname": "daksh",
+  "email": "dk@gmail.com",
+  "password": "$2a$10$dRRTAn6BtnpZCjdqoPBpnOo6z8Jrl.mCFLW7CIMYkky0f9zVFLl8e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f3a738202c3f319f62e887"
+  },
+  "fullname": "test",
+  "email": "test@gmail.com",
+  "password": "$2a$10$FTYj7dywrGT3O/xxPOJWye1Vw8DNiVnsRdLAMf6UjZ6VLYac9hqBa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f3c4eb41689e6e63b3270c"
+  },
+  "fullname": "admin",
+  "email": "admin123@gmail.com",
+  "password": "$2a$10$uYx1RENIPVSP3P4h7Nc10OfIkTlIK/mfqwUT.WHacHn4q2B/rVI/u",
+  "isAdmin": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f42e4a7d60c6778391b464"
+  },
+  "fullname": "Harsh",
+  "email": "Himanshudankhara118@gmail.com",
+  "password": "$2a$10$GIvoRRnm3cF1iVomGiZjsucMM5IUUAsBZyEDmIMueUGgkszi0Qfte",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f46cfc016214867fd52fba"
+  },
+  "fullname": "iamadmin",
+  "email": "iamadmin@gmail.com",
+  "password": "$2a$10$vG4iYrTFC42mwmDkURURBOa3IcMDkjryUgDe81cGJrhMOMk.NDCdu",
+  "isAdmin": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f54130c510fb84cfccdfd0"
+  },
+  "fullname": "harshsaliya",
+  "email": "harshsaliya@gmail.com",
+  "password": "$2a$10$1FcmWiIkWEZJomn2BFfEQO2NoOPLc8namFyO1bbsWSE9gFGAusT1.",
+  "isAdmin": false,
+  "__v": 0
+}]

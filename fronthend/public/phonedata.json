@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "66f2ab02615be76e0ebaac42"
+  },
+  "id": 1,
+  "name": "Iphone 16 Pro Max",
+  "titel": "Iphone is Apple",
+  "price": 109999,
+  "category": "Apple",
+  "image": "uploads/iphone16.jpg",
+  "title": "A18 Bionic Chip: Powerful performance Dynamic Island: Interactive display feature 48MP Main Camera: High-quality photos Periscope Zoom: Enhanced optical zoom Larger Battery: Longer battery life Titanium Design: Durable and lightweight ProMotion Display: Smooth scrolling and animations Always-On Display: View information without fully waking Advanced Face ID: Secure facial recognition MagSafe Compatibility: Wireless charging and accessories"
+},
+{
+  "_id": {
+    "$oid": "66f2ab02615be76e0ebaac43"
+  },
+  "id": 2,
+  "name": "Iphone 14 plus",
+  "titel": "Iphone is Apple",
+  "price": 799999,
+  "category": "Apple",
+  "image": "uploads/iphone14plus.jpeg",
+  "title": "A15 Bionic Chip: Powerful performance 6.7-inch Super Retina XDR Display: Large and vibrant display 12MP Dual Camera System: Wide and ultrawide lenses for versatile photography Up to 26 hours of battery life: Long-lasting battery Ceramic Shield: Durable front panel Dual SIM: Use two phone numbers on one device 5G: Fast internet speeds Water and dust resistance: IP68 rating MagSafe Compatibility: Wireless charging and accessories"
+},
+{
+  "_id": {
+    "$oid": "66f2ab02615be76e0ebaac44"
+  },
+  "id": 3,
+  "name": "Iphone 15 Pro ",
+  "titel": "Iphone is Apple",
+  "price": 99999,
+  "category": "Apple",
+  "image": "uploads/iphone15pro.png",
+  "title": "A17 Bionic Chip: Powerful performance 6.1-inch Super Retina XDR Display: High-quality display with Dynamic Island 48MP Main Camera: Advanced photography capabilities Periscope Zoom: Enhanced optical zoom Up to 24 hours of battery life: Long-lasting battery Titanium Design: Durable and premium feel Action Button: Customizable side button USB-C Charging: Faster charging and compatibility with accessories A16 Bionic Chip in Standard Model: Slightly less powerful processor in the non-Pro model"
+},
+{
+  "_id": {
+    "$oid": "66f2ab02615be76e0ebaac45"
+  },
+  "id": 4,
+  "name": "Ipad ",
+  "titel": "Iphone",
+  "price": 99999,
+  "category": "Apple",
+  "image": "uploads/ipad10.jpg",
+  "title": "Large, high-resolution display: Ideal for viewing content, gaming, and productivity tasks. Powerful processor: Handles demanding apps and multitasking seamlessly. iOS operating system: Intuitive and user-friendly interface. App Store: Access a vast library of apps and games. Apple Pencil compatibility: Supports drawing, writing, and note-taking. Keyboard options: Available with physical keyboards or smart covers. Various models: Choose from different sizes, storage options, and cellular connectivity. Versatile uses: Can be used for entertainment, work, education, and more."
+},
+{
+  "_id": {
+    "$oid": "66f466a0016214867fd52fa4"
+  },
+  "name": "Oneplus NordT10",
+  "title": "MediaTek Dimensity 8100-MAX processor: Powerful performance 6.7-inch AMOLED display: Smooth and vibrant 50MP main camera: Capable of capturing good photos 8GB RAM and 128GB storage: Ample storage for apps and media 5000mAh battery: Long-lasting battery life OxygenOS 13: Custom Android skin with features Side-mounted fingerprint sensor: Convenient and fast unlocking 33W fast charging: Quickly recharge the battery",
+  "price": 49999,
+  "category": "OnePlus",
+  "image": "uploads/oneplusT10.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f47bb9669b622e6065e9e1"
+  },
+  "name": "samsung s21",
+  "title": "Exynos 2100 processor: Powerful performance 6.2-inch Dynamic AMOLED 2X display: High-quality display with a 120Hz refresh rate 64MP main camera: Capable of taking excellent photos 12GB RAM and 128GB storage: Ample storage for apps and media 4000mAh battery: Good battery life One UI 3.1: Custom Android skin with features In-display fingerprint sensor: Convenient and fast unlocking 5G connectivity: Fast internet speeds",
+  "price": 1999,
+  "category": "samsung",
+  "image": "uploads/s21.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f497d7f6a47ffd3f91c283"
+  },
+  "name": "samsung S24 Ultra",
+  "title": "Snapdragon 8 Gen 3 processor: Powerful performance 6.8-inch Dynamic AMOLED 2X display: High-quality display with a 120Hz refresh rate 200MP main camera: Advanced photography capabilities 10x periscope zoom: Enhanced optical zoom 5000mAh battery: Long-lasting battery life One UI 6: Custom Android skin with features In-display fingerprint sensor: Convenient and fast unlocking 5G connectivity: Fast internet speeds",
+  "price": 79999,
+  "category": "samsung",
+  "image": "uploads/s23ultra.jpg",
+  "__v": 0
+}]
